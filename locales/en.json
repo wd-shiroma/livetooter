@@ -1,0 +1,23 @@
+{
+  "top": {
+    "whats_topics": "What topics do you like?",
+    "description": "LiveTooter is a mastodon client for monitoring hashtag timeline.",
+    "enter": "enter"
+  },
+  "about": {
+    "for_community_title": "For community timeline",
+    "for_community_1": "The hash tag timeline goes beyond the wall of the server and delivers the voice of every user on the Internet.",
+    "for_community_2": "General clients are not designed kindly for submission to the hashtag timeline. LiveTooter was developed to solve such dissatisfaction.",
+    "for_live_title": "For live commentary",
+    "for_live_1": "LiveTooter can access the hash tag timeline with a simple URL.",
+    "for_live_2": "If you are introducing a friend to a topic of interest, you just copy the address.",
+    "works_lightly_title": "Light action",
+    "works_lightly_1": "This client is developed using Vue.js.",
+    "works_lightly_2": "Since this is a simple design that only displays a hash tag timeline, expect it to behave more lightly than a general client.",
+    "policy_title": "Policy",
+    "policy_1": "LiveTooter is a client that runs on the user's browser and does not communicate with malicious servers other than the Mastodon server that gets the timeline.",
+    "policy_2": "If you are not logged in, get the timeline from the following Mastodon server.",
+    "policy_3": "If you want to change the default mastodon server, we recommend that you prepare your own LiveTooter client.",
+    "policy_4": "LiveTooter publishes source code based on free license AGPL."
+  }
+}
